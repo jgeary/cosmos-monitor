@@ -1,0 +1,6 @@
+rpcUrl: http://cosmos-node-domain.com:26657
+averageIntervalHours: 6
+slackSendMessageEndpoint: https://hooks.slack.com/... (full webhook endpoint)
+validators:
+    - 7FCBASDF12563C8823E8EBEC8C0DE580DD8C7F04
+    - B1167D0437ASDFF0D533EE2ACDE48107139BDD2E
